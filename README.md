@@ -4,7 +4,7 @@
   <samp>
     My name is <em>Anurag Kumar</em>. I am a Fullstack <n> MERN developer... 
   <br>
-    I'm a final yr student pursuing Bachelors's in Computer Science🎓 from Jaypee University of Information Technology🏛. I'm a passionate learner who's always willing to learn and work across technologies & domains💡. I love to explore new technologies and leverage them to solve real-life problems✨. I'm currently into Web Development🕸️ and working on my Data Structures and Algorithms🤓.
+    I'm a final yr student pursuing Bachelors's in Computer Science🎓 from Jaypee University of Information Technology🏛. I love to explore new technologies and leverage them to solve real-life problems✨. I'm currently into Web Development🕸️ and working on my Data Structures and Algorithms🤓.
       <br/>
 </p>
 <br> <br/>
