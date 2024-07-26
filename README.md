@@ -14,7 +14,7 @@
 - <img src="https://www.kindpng.com/picc/m/4-41514_developer-png-transparent-png.png" width="30px" />  MERN projects
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px" /> Data Structures and Algorithms
-- <img src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_nsrozhr9igl91.png" height="30px" /> NextJs
+- <img src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_nsrozhr9igl91.png" height="30px" /> Fast API
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any Open Source Project involving Javascript / MERN Stack.
 
